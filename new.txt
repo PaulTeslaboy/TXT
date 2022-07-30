@@ -1,0 +1,4 @@
+1. Name - Badalov Pavel Vladimirovich
+2. Age - 27
+3. Pets - 0
+4. Salary - 60000
